@@ -29,3 +29,6 @@ To clone a github repo:   git clone https://github.com/user_name/project_name.gi
 
 
 To check remote repo:    git remote -v
+
+
+error: failed to push some refs to remote:     git push -f origin master
