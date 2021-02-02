@@ -1,0 +1,9 @@
+GIT INIT - initializes git repo
+GIT ADD . - add files to staging area
+GIT COMMIT - M "Initial Commit" - commit
+
+To see if you have git insalled:   git --version
+
+To open integrated Terminal in Visual Studio Code use:   control ~
+
+To see all commits:  git log
